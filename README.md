@@ -7,19 +7,37 @@ A minimal To-Do List application built with HTML, CSS, and JavaScript, designed 
   </tr>
 </table>
 
-## Features
-Add new tasks
-Mark tasks as completed
-Delete tasks
-Save tasks using Local Storage
-Tasks remain saved after refreshing the page
-Simple and responsive user interface
+<h2>✨ Features</h2>
 
- ## Built With
- HTML5 — Structure
-CSS3 — Styling and layout
-JavaScript — Functionality and DOM manipulation
-Local Storage — Saving tasks in the browser
+<ul>
+  <li>Add new tasks</li>
+  <li>Mark tasks as completed</li>
+  <li>Delete tasks</li>
+  <li>Save tasks using Local Storage</li>
+  <li>Tasks remain saved after refreshing the page</li>
+  <li>Simple and responsive user interface</li>
+</ul>
+
+<h2>🛠️ Built With</h2>
+
+<table>
+  <tr>
+    <td><strong>HTML5</strong></td>
+    <td>Structure</td>
+  </tr>
+  <tr>
+    <td><strong>CSS3</strong></td>
+    <td>Styling and layout</td>
+  </tr>
+  <tr>
+    <td><strong>JavaScript</strong></td>
+    <td>Functionality and DOM manipulation</td>
+  </tr>
+  <tr>
+    <td><strong>Local Storage</strong></td>
+    <td>Saving tasks in the browser</td>
+  </tr>
+</table>
 
 <h2> How It Works</h2>
 
@@ -56,7 +74,7 @@ Local Storage — Saving tasks in the browser
   Your tasks remain saved even after refreshing the page.
 </p>
 
-<h2> Screenshots</h2>
+## Screenshots
 ![todoapp App](screenshot/first_look.jpeg)
 ![todoapp App](screenshot/alert.png)
 ![todoapp App](screenshot/item_added.jpeg)
