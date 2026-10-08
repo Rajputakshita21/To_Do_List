@@ -74,12 +74,22 @@ A minimal To-Do List application built with HTML, CSS, and JavaScript, designed 
   Your tasks remain saved even after refreshing the page.
 </p>
 
-## Screenshots
-![todoapp App](screenshot/first_look.jpeg)
-![todoapp App](screenshot/alert.png)
-![todoapp App](screenshot/item_added.jpeg)
-![todoapp App](screenshot/item_removed.jpeg)
 
 
 
+<h2> Screenshots</h2>
+
+<img src="./screenshot/first_look.jpeg" alt="To-Do App" width="700">
+
+<br><br>
+
+<img src="./screenshot/alert.png" alt="Empty task alert" width="700">
+
+<br><br>
+
+<img src="./screenshot/item_added.jpeg" alt="Task added" width="700">
+
+<br><br>
+
+<img src="./screenshot/item_removed.jpeg" alt="Task removed" width="700">
 
